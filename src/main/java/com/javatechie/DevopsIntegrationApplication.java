@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "VANAKKAM DA MAPALA TANAGOEYE";
+		return "WELCOME TO TANAGOEYE";
 	}
 
 	public static void main(String[] args) {
